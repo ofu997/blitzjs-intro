@@ -270,3 +270,10 @@ const Home: BlitzPage = () => {
 Home.getLayout = (page) => <Layout title="Home">{page}</Layout>
 
 export default Home
+
+// const Index = () => (
+//   <div>
+//     <h1>Hello, world!</h1>
+//   </div>
+// )
+// export default Index
